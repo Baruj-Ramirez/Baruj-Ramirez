@@ -1,5 +1,22 @@
 ## Hi there 👋
 
+## 💻 About Me  
+I am a developer with experience in **Unity**, specializing in **2D and 3D** game programming.  
+I have worked on implementing game mechanics, interaction systems, and UI, as well as leading teams for asset integration.  
+
+## 🎮 Game Development Experience  
+- **Game 1:** UI implementation and interactive menus.  
+- **Game 2:** Full development of a 2D platformer, including levels and traps. I also led asset integration with artists.  
+- **Game 3 (in development):** Development of mechanics in a 3D horror game, including character movement, object interaction, and team coordination.  
+
+## 🚀 Skills  
+- **Unity and C#** for game development.  
+- **2D and 3D mechanics programming**.  
+- **UI development and usability**.  
+- **Leadership and teamwork** in multidisciplinary projects.  
+
+📩 Always open to new opportunities and collaborations!  
+
 
 🎮 **Current Project:**  🎮
 
