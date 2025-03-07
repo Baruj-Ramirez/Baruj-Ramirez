@@ -15,9 +15,6 @@ I have worked on implementing game mechanics, interaction systems, and UI, as we
 - **UI development and usability**.  
 - **Leadership and teamwork** in multidisciplinary projects.  
 
-📩 Always open to new opportunities and collaborations!  
-
-
 🎮 **Current Project:**  🎮
 
 <br>
@@ -37,6 +34,9 @@ I am working with my team on a **video game project**, which you can check out h
   <img src="https://github-readme-stats.vercel.app/api?username=Baruj-Ramirez&show_icons=true&theme=catppuccin_latte">
   <br>
 </div>
+
+📩 Always open to new opportunities and collaborations!  
+
 
 <!--
 **Baruj-Ramirez/Baruj-Ramirez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
