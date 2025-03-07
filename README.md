@@ -37,7 +37,8 @@ I am working with my team on a **video game project**, which you can check out h
   <img src="https://github-readme-stats.vercel.app/api?username=Baruj-Ramirez&show_icons=true&theme=catppuccin_latte">
   <br>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baruj-Ramirez&layout=compact&theme=catppuccin_latte">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baruj-Ramirez&layout=compact&theme=catppuccin_latte&cache_seconds=7200">
+
 
 </div>
 
